@@ -1,4 +1,4 @@
-# Carbon-Oxide-Concentration-Problem
+# Carbon-Monoxide-Concentration-Problem
 A solution to the problem regarding CO concentration in different rooms considering different sources and their changes
 
 ## Overview
